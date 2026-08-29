@@ -1,4 +1,4 @@
-# 🤖 Autonomous Laundry Sorter
+# Autonomous Laundry Sorter
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch)
@@ -8,7 +8,7 @@
 
 An end-to-end autonomous robotic system that classifies and sorts laundry items into labeled baskets — completely hands-free.
 
-Built from scratch: 3D-printed robotic arm, custom-wired electronics, self-collected image dataset, and a fine-tuned deep learning model deployed on edge hardware.
+Developed as part of academic coursework in Deep Learning and Humanoid Robotics, this project was built from scratch: a 3D-printed robotic arm, custom-wired electronics, a self-collected image dataset, and a fine-tuned deep learning model deployed on edge hardware.
 
 ---
 
@@ -86,7 +86,7 @@ Rather than training from scratch, I fine-tuned a pretrained ResNet18 (ImageNet 
 **Results:**
 - Test accuracy: ~90%
 - Evaluated with confusion matrix and per-class classification report
-- Custom CNN (trained from scratch) was also tested and compared — ResNet18 with transfer learning outperformed it significantly
+- A custom CNN trained from scratch was also tested as a baseline, and ResNet18 with transfer learning outperformed it significantly.
 
 <img src="photos/confusion_matrix.png" width="500"/>
 
@@ -181,7 +181,6 @@ Open `arduino/arduino.ino` in the Arduino IDE and upload to Arduino UNO.
 
 - Expand dataset for better generalization in varied lighting conditions
 - Improve gripper mechanism for more reliable garment pickup
-- Add active cooling solution for continuous operation
 - Explore YOLO-based detection for multi-item scenarios
 
 ---
