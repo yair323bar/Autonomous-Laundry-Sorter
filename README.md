@@ -188,4 +188,6 @@ Open `arduino/arduino.ino` in the Arduino IDE and upload to Arduino UNO.
 ## Author
 
 **yair bar** — CS Student, Holon Institute of Technology  
-yair323bar@gmail.com
+
+[Email](mailto:yair323bar@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/%D7%99%D7%90%D7%99%D7%A8-%D7%91%D7%A8-a1a818325/)
