@@ -189,5 +189,5 @@ Open `arduino/arduino.ino` in the Arduino IDE and upload to Arduino UNO.
 
 **yair bar** — CS Student, Holon Institute of Technology  
 
-[Email](mailto:yair323bar@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/%D7%99%D7%90%D7%99%D7%A8-%D7%91%D7%A8-a1a818325/)
+[![Email](https://img.shields.io/badge/Email-yair323bar%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:yair323bar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yair%20bar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D7%99%D7%90%D7%99%D7%A8-%D7%91%D7%A8-a1a818325/)
